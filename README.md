@@ -32,8 +32,6 @@ Contributions are welcome! If you have questions from recent placement rounds or
 
 ---
 
----
-
 Happy coding and good luck with your placements! 🍀
 
 ---
