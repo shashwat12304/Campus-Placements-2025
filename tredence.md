@@ -128,3 +128,66 @@ https://leetcode.com/problems/trapping-rain-water/description/
 
 ## Question 6: Special Number
 https://www.geeksforgeeks.org/problems/count-special-numbers--170647/0 
+=======
+
+
+
+
+
+## Round-2 SkillX Assessment
+- **Skills Tested**:
+  - English Listening
+  - Speaking
+  - Grammar
+
+This assessment was part of my ongoing efforts to improve and validate my English language proficiency.
+
+# Interview Preparation
+
+## Topics to Prepare
+
+### 1. Project Discussion
+- **Projects to Review**:
+  - Anonymous feedback project
+  - React.js websites
+  - JobBridge project using MongoDB
+- **Key Points to Cover**:
+  - **Objective**: What was the project's goal?
+  - **Technologies Used**: What technologies did you use and why?
+  - **Challenges Faced**: What challenges did you encounter and how did you overcome them?
+  - **Results**: What were the outcomes or impacts of the project?
+
+### 2. Previous Internship Discussion
+- **Details to Highlight**:
+  - Role and responsibilities at Social as well as OHSL(i was intern here)
+  - Key achievements and contributions
+  - Skills learned and applied
+
+### 3. Basic DSA Questions
+- **Occurrence Count**:
+  - Example: Count the occurrences of each element in a list.
+- **Convert List to Dictionary**:
+  - Example: Convert a list of tuples into a dictionary.
+
+### 4. SQL Joins and Indexing
+- **Joins**:
+  - Types of joins: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN
+  - Example scenarios for using each type
+- **Indexing**:
+  - Importance of indexing
+  - How indexing improves query performance
+
+### 5. Data Analysis Questions
+- **Example Question**: Estimate the number of wedding dresses sold in India using assumptions.
+  - Break down your approach
+  - Make reasonable assumptions
+  - Show how you arrive at an estimate
+
+### 6. Hobbies Discussion
+- Be prepared to talk about your hobbies and how they contribute to your personal and professional development.
+
+### 7. Career Preference
+- **Question**: Why are you pursuing a data analyst role rather than full stack despite having a profile mostly on JavaScript?
+  - Discuss your interest in data analysis
+  - Highlight skills that are transferable between the two roles
+  - Explain how the data analyst role aligns with your career goals
