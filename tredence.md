@@ -125,3 +125,6 @@ Calculate the sum of `floor(Ai / Aj) % 100003` for all pairs:
 ```
 ## Question 5: Trapping Rainwater pattern
 https://leetcode.com/problems/trapping-rain-water/description/
+
+## Question 6: Special Number
+https://www.geeksforgeeks.org/problems/count-special-numbers--170647/0 
