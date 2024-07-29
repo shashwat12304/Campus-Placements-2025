@@ -4,6 +4,7 @@ This repository includes questions from various companies that have been asked d
 ### Included Companies
 
 - **Tredence**
+- **Affordmed Technologies**
 - ... (more to be added)
 
 
