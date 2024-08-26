@@ -5,6 +5,9 @@ This repository includes questions from various companies that have been asked d
 
 - **Tredence**
 - **Affordmed Technologies**
+- **Acies Global**
+- **Human Resocia**
+- **British Telecom**
 - ... (more to be added)
 
 
