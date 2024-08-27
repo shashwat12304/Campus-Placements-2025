@@ -14,8 +14,8 @@ Design
 
 Online Test -> Interview Round 1 -> Interview Round 2
 
-OA: Computer Networks and VARC.
-Round 1: Technical interview (networking basics, mostly resume based questions, fitment check).
+OA: Computer Networks and VARC.  
+Round 1: Technical interview (networking basics, mostly resume based questions, fitment check).  
 Round 2: HR round.  
 
 ### Questions
