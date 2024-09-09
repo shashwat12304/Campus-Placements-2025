@@ -8,6 +8,7 @@ This repository includes questions from various companies that have been asked d
 - **Acies Global**
 - **Human Resocia**
 - **British Telecom**
+- **IBM**
 - ... (more to be added)
 
 
